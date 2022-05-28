@@ -5,8 +5,6 @@ Estou cursando sistemas de informação no 5 período, fissurado pelo desenvolvi
 - 📚 Estou focado no mundo do backend, onde maior parte do tempo estou me aperfeiçoando em Nodejs.
 - 🤝 Me disponibilizo a ajudar em qualquer projeto que possa agregar no meu conhecimento e dos colegas envolvidos.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=developer-gabrielti)
-
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabriel_mateuss/)
 
 # Tecnologias ⚙️
